@@ -1,3 +1,3 @@
 # Bigdata
 
-##test sample reporsitory in Bigdata class
+##test sample reporsitory in Bigdata classroom
